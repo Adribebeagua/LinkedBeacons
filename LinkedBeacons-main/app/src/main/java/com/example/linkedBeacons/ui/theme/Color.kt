@@ -1,0 +1,63 @@
+package com.example.linkedBeacons.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val md_theme_light_primary = Color(0xFF365391) // Azul medio
+val md_theme_light_onPrimary = Color(0xFFFFFFFF) // Blanco
+val md_theme_light_primaryContainer = Color(0xFFD9E6FF) // Azul claro para container
+val md_theme_light_onPrimaryContainer = Color(0xFF001A44) // Azul oscuro
+val md_theme_light_secondary = Color(0xFF5878A0) // Azul grisáceo
+val md_theme_light_onSecondary = Color(0xFFFFFFFF) // Blanco
+val md_theme_light_secondaryContainer = Color(0xFFD9E6FF) // Azul claro para container secundario
+val md_theme_light_onSecondaryContainer = Color(0xFF1A2A44) // Azul oscuro
+val md_theme_light_tertiary = Color(0xFF345E80) // Azul con un toque marrón/gris
+val md_theme_light_onTertiary = Color(0xFFFFFFFF) // Blanco
+val md_theme_light_tertiaryContainer = Color(0xFFD0E1F9) // Azul claro con un toque grisáceo
+val md_theme_light_onTertiaryContainer = Color(0xFF002240) // Azul muy oscuro
+val md_theme_light_error = Color(0xFFBA1A1A) // Mantiene el color rojo para errores
+val md_theme_light_errorContainer = Color(0xFFFFDAD6) // Container de error claro
+val md_theme_light_onError = Color(0xFFFFFFFF) // Blanco para texto sobre error
+val md_theme_light_onErrorContainer = Color(0xFF410002) // Oscuro para container de error
+val md_theme_light_background = Color(0xFFFBFCFF) // Azul muy claro casi blanco
+val md_theme_light_onBackground = Color(0xFF1A1D24) // Azul gris oscuro
+val md_theme_light_surface = Color(0xFFFBFCFF) // Azul muy claro para surface
+val md_theme_light_onSurface = Color(0xFF1A1D24) // Azul gris oscuro
+val md_theme_light_surfaceVariant = Color(0xFFD9E2F2) // Azul suave para surface variant
+val md_theme_light_onSurfaceVariant = Color(0xFF4A5367) // Azul gris oscuro para texto en surface variant
+val md_theme_light_outline = Color(0xFF6C7A99) // Azul gris para outlines
+val md_theme_light_inverseOnSurface = Color(0xFFEFF3FF) // Azul muy claro inverso sobre surface
+val md_theme_light_inverseSurface = Color(0xFF2E3541) // Azul oscuro inverso
+val md_theme_light_inversePrimary = Color(0xFF82A9FF) // Azul más claro para inverse primary
+val md_theme_light_surfaceTint = Color(0xFF3366CC) // Azul principal para tintes de surface
+val md_theme_light_outlineVariant = Color(0xFFC2D1EA) // Variante clara del outline en azul
+val md_theme_light_scrim = Color(0xFF000000) // Negro para scrims
+
+val md_theme_dark_primary = Color(0xFF82A9FF) // Azul claro para modo oscuro
+val md_theme_dark_onPrimary = Color(0xFF002A5C) // Azul oscuro en modo oscuro
+val md_theme_dark_primaryContainer = Color(0xFF0047A0) // Azul más profundo para container en oscuro
+val md_theme_dark_onPrimaryContainer = Color(0xFFD9E6FF) // Azul muy claro en container
+val md_theme_dark_secondary = Color(0xFFA0B8E2) // Azul gris claro para secundario en oscuro
+val md_theme_dark_onSecondary = Color(0xFF293B5A) // Azul oscuro sobre secundario
+val md_theme_dark_secondaryContainer = Color(0xFF3F5478) // Azul grisáceo para container en oscuro
+val md_theme_dark_onSecondaryContainer = Color(0xFFD9E6FF) // Azul claro para container secundario en oscuro
+val md_theme_dark_tertiary = Color(0xFF94BFD0) // Azul gris claro para terciario en oscuro
+val md_theme_dark_onTertiary = Color(0xFF0A2F3A) // Azul muy oscuro en terciario
+val md_theme_dark_tertiaryContainer = Color(0xFF204760) // Azul gris oscuro en container terciario
+val md_theme_dark_onTertiaryContainer = Color(0xFFD0E1F9) // Azul claro para container terciario en oscuro
+val md_theme_dark_error = Color(0xFFFFB4AB) // Mantiene rojo para error en modo oscuro
+val md_theme_dark_errorContainer = Color(0xFF93000A) // Rojo oscuro en container de error
+val md_theme_dark_onError = Color(0xFF690005) // Rojo muy oscuro sobre error
+val md_theme_dark_onErrorContainer = Color(0xFFFFDAD6) // Container de error claro
+val md_theme_dark_background = Color(0xFF1A1D24) // Azul gris oscuro para fondo
+val md_theme_dark_onBackground = Color(0xFFE0E7FF) // Azul claro sobre fondo oscuro
+val md_theme_dark_surface = Color(0xFF1A1D24) // Azul gris oscuro para surface en oscuro
+val md_theme_dark_onSurface = Color(0xFFE0E7FF) // Azul claro sobre surface oscuro
+val md_theme_dark_surfaceVariant = Color(0xFF4A5367) // Azul gris oscuro para surface variant en oscuro
+val md_theme_dark_onSurfaceVariant = Color(0xFFC2D1EA) // Azul claro para texto en surface variant oscuro
+val md_theme_dark_outline = Color(0xFF8C9AB8) // Azul gris para outlines en oscuro
+val md_theme_dark_inverseOnSurface = Color(0xFF1A1D24) // Azul gris oscuro inverso en surface oscuro
+val md_theme_dark_inverseSurface = Color(0xFFE0E7FF) // Azul claro inverso en surface oscuro
+val md_theme_dark_inversePrimary = Color(0xFF3366CC) // Azul principal inverso en oscuro
+val md_theme_dark_surfaceTint = Color(0xFF82A9FF) // Azul claro para surface tint en oscuro
+val md_theme_dark_outlineVariant = Color(0xFF4A5367) // Azul gris oscuro para outline variant en oscuro
+val md_theme_dark_scrim = Color(0xFF000000) // Negro para scrims

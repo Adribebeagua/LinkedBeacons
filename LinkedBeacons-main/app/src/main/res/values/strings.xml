@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"> LinkedBeacons</string>
+    <!-- Botones -->
+    <string name="start_monitoring_beacons">Start Monitoring Beacons</string>
+    <string name="start_ranging_beacons">Start Ranging Beacons</string>
+    <string name="stop_monitoring_beacons">Stop Monitoring Beacons</string>
+    <string name="stop_ranging_beacons">Stop Ranging Beacons</string>
+    <string name="visualize_Beacons">Visualize Beacons</string>
+    <string name="apply_changes">Apply</string>
+    <string name="reset_all">Reset All</string>">
+
+    <string name="altBeacon">AltBeacon</string>
+    <string name="iBeacon">iBeacon</string>
+    <string name="eddystone_uid">Eddystone UID</string>
+    <string name="eddystone_url">Eddystone URL</string>
+    <string name="select_persers">Select Parsers</string>
+    <string name="config_summary">Configuration Summary</string>
+
+    <string name="parsers_currently_active">Parsers Currently Active</string>
+    <string name="no_parsers_active">No Parsers Active</string>
+    <string name="quantity">Quantity</string>
+
+    <string name="config_details">Quantity: %1$s \Parsers: %2$s \n\nThank you!</string>
+    <string name="new_parser_config">New Parser Configuration</string>
+
+    <string name="back_button">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send config to another app</string>
+
+    <plurals name="parsers">
+        <item quantity="one">%d parser</item>
+        <item quantity="other">%d parsers</item>
+    </plurals>
+
+
+
+
+  </resources>
